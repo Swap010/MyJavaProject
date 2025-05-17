@@ -10,7 +10,7 @@
 
     try {
         Class.forName("com.mysql.cj.jdbc.Driver");
-        con = DriverManager.getConnection("jdbc:mysql://localhost:3306/employee", "root", "");
+        con = DriverManager.getConnection("jdbc:mysql://localhost:3306/Employee", "root", "");
         stmt = con.createStatement();
         rs = stmt.executeQuery("SELECT * FROM Emp");
 
