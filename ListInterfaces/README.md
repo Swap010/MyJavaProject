@@ -1,19 +1,19 @@
-Output for ArrayList Implementation :- 
+Output for ArrayList Implementation :-                 
 https://github.com/Swap010/MyJavaProject/blob/main/ListInterfaces/ArrayList.png
 
-Output for LinkedList Implementation :-
+Output for LinkedList Implementation :-                           
 https://github.com/Swap010/MyJavaProject/blob/main/ListInterfaces/LinkedList.png
 
 Output for Colorsearch using ArrayList Implementation :- 
 https://github.com/Swap010/MyJavaProject/blob/main/ListInterfaces/Colorsearch.png
 
-Output for Deletion using ArrayList Implementation :- 
+Output for Deletion using ArrayList Implementation :-                          
 https://github.com/Swap010/MyJavaProject/blob/main/ListInterfaces/delete.png
 
 Output for Remove Specific color using ArrayList Implementation :-
 https://github.com/Swap010/MyJavaProject/blob/main/ListInterfaces/RemoveColors.png
 
-Output for SortColors using ArrayList Implementation :- 
+Output for SortColors using ArrayList Implementation :-                           
 https://github.com/Swap010/MyJavaProject/blob/main/ListInterfaces/SortColors.png
 
 Output for Sublist of colors using ArrayList Implementation :- 
