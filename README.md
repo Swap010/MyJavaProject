@@ -230,8 +230,8 @@ HTML and JSP to get the field and display the results respectively
 [Output](https://github.com/Swap010/MyJavaProject/blob/main/Exp9-JDBCExample/9a.png)
 
 9b. Read all the existing records from the table coffee which is from the database test and query
-coffee name starting with ‘D’ in the table using HTML and JSP to get the field and display the
-[Output](https://github.com/Swap010/MyJavaProject/blob/main/Exp9-JDBCExample/9b.png)results respectively
+coffee name starting with ‘D’ in the table using HTML and JSP to get the field and display the results respectively
+[Output](https://github.com/Swap010/MyJavaProject/blob/main/Exp9-JDBCExample/9b.png)
 
 
 9c. Develop a JDBC project using MySQL to append the fields empno, empname and basicsalary
