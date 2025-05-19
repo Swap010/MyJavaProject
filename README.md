@@ -6,7 +6,7 @@ Accessing elements,5. Updating elements, 6. Removing elements, 7. Searching elem
 size, 9. Iterating over list, 10. Using Iterator, 11. Sorting, 12. Sublist, 13. Clearing the list
 [Output](https://github.com/Swap010/MyJavaProject/blob/main/Exp1-ListInterfaces/ArrayList.png)                                                     
 [Output](https://github.com/Swap010/MyJavaProject/blob/main/Exp1-ListInterfaces/LinkedList.png)
-
+___
 1b. Array List programs
 1. Write a java program for getting different colors through ArrayList interface and search whether
 the color "Red" is available or not
@@ -28,7 +28,7 @@ elements 1st and 2nd from the ArrayList object by using SubList()
 element from the ArrayList object by using remove by index
 [Output](https://github.com/Swap010/MyJavaProject/blob/main/Exp1-ListInterfaces/delete.png)
 
-
+___
 1c. Linked List Programs
 1. Write a Java program to iterate through all elements in a linked list starting at the
 specified position ( 2nd) using iterator ( hint : Iterator iteratorobj = listobj.listIterator(1))
@@ -50,7 +50,7 @@ l_listobj.get(p) )
 Collections.swap(l_list, 0, 2)) 
 [Output](https://github.com/Swap010/MyJavaProject/blob/main/Exp1-ListInterfaces/SwapElements.png)
 
-
+___
 
 
 
@@ -71,7 +71,7 @@ your answer which one is better.
 [Output](https://github.com/Swap010/MyJavaProject/blob/main/Exp2-StringOperations/StringPerformanceTest.png)
 
 
-
+___
 
 
 
