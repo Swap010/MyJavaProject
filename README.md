@@ -10,7 +10,7 @@ ___
 1b. Array List programs
 1. Write a java program for getting different colors through ArrayList interface and search whether
 the color "Red" is available or not
-[Output](https://github.com/Swap010/MyJavaProject/blob/main/ListInterfaces/Colorsearch.png)
+[Output](https://github.com/Swap010/MyJavaProject/blob/main/Exp1-ListInterfaces/Colorsearch.png)
 
 2. Write a java program for getting different colors through ArrayList interface and remove the
 2nd element and color "Blue" from the ArrayList
