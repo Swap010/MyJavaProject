@@ -5,8 +5,6 @@ follows
 Accessing elements,5. Updating elements, 6. Removing elements, 7. Searching elements, 8. List
 size, 9. Iterating over list, 10. Using Iterator, 11. Sorting, 12. Sublist, 13. Clearing the list
 
-[Output for ArrayList Implementation](https://github.com/Swap010/MyJavaProject/blob/main/ListInterfaces/ArrayList.png)
-[Output for LinkedList Implementation](https://github.com/Swap010/MyJavaProject/blob/main/ListInterfaces/LinkedList.png)
 1b. Array List programs
 1. Write a java program for getting different colors through ArrayList interface and search whether
 the color "Red" is available or not
@@ -32,11 +30,8 @@ l_listobj.get(p) )
 Collections.swap(l_list, 0, 2)) 
 
 
-
-
-
-
-
+[Output for ArrayList Implementation](https://github.com/Swap010/MyJavaProject/blob/main/ListInterfaces/ArrayList.png)                                                     
+[Output for LinkedList Implementation](https://github.com/Swap010/MyJavaProject/blob/main/ListInterfaces/LinkedList.png)
 
 [Output for Colorsearch using ArrayList Implementation](https://github.com/Swap010/MyJavaProject/blob/main/ListInterfaces/Colorsearch.png)
 
