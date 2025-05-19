@@ -1,11 +1,11 @@
 Output to display CountryList in console :-                   
-https://github.com/Swap010/MyJavaProject/blob/main/SwingExamples2/CountryListConsole.png
+https://github.com/Swap010/MyJavaProject/blob/main/Exp5-SwingExamples/CountryListConsole.png
 
 Output to display CountryList with Capitals in console :-                
-https://github.com/Swap010/MyJavaProject/blob/main/SwingExamples2/CountryCapitalList.png
+https://github.com/Swap010/MyJavaProject/blob/main/Exp5-SwingExamples/CountryCapitalList.png
 
 Output for colour tabbed pane :-                              
-https://github.com/Swap010/MyJavaProject/blob/main/SwingExamples2/ColorTabbedPane.png
+https://github.com/Swap010/MyJavaProject/blob/main/Exp5-SwingExamples/ColorTabbedPane.png
 
 Output for colour tabbed pane 1 :-                        
-https://github.com/Swap010/MyJavaProject/blob/main/SwingExamples2/CTP1.png
+https://github.com/Swap010/MyJavaProject/blob/main/Exp5-SwingExamples/CTP1.png
