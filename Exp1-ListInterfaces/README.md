@@ -28,8 +28,8 @@ https://github.com/Swap010/MyJavaProject/blob/main/Exp1-ListInterfaces/InsertAtE
 Output to show iteration of elements from second position using LinkedList Implementation :-                                   
 https://github.com/Swap010/MyJavaProject/blob/main/Exp1-ListInterfaces/IterateFromSecond.png
 
-Output to iterate the list from backwards usingLinkedList Implementation :- 
+Output to iterate the list from backwards usingLinkedList Implementation :-                                                   
 https://github.com/Swap010/MyJavaProject/blob/main/Exp1-ListInterfaces/ReverseIterate.png
 
-Output to swap elements using LinkedList Implementation :- 
+Output to swap elements using LinkedList Implementation :-                                                           
 https://github.com/Swap010/MyJavaProject/blob/main/Exp1-ListInterfaces/SwapElements.png
